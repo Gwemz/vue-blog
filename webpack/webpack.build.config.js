@@ -19,7 +19,7 @@ module.exports = merge(basicConfig, {
   },
   output: {
     path: resolve('docs'),
-    publicPath: '/vue-blog/',
+    publicPath: '/vue-blog/docs/',
     filename: '[name].[chunkhash:8].js',
     chunkFilename: 'js/[name].[chunkhash:8].js'
   },
@@ -54,11 +54,11 @@ module.exports = merge(basicConfig, {
       filename: 'index.html',
       template: 'index.html',
       inject: true,
-      minify: {
-        removeComments: true,
-        collapseWhitespace: true,
-        removeAttributeQuotes: true
-      },
+      // minify: {
+      //   removeComments: true,
+      //   collapseWhitespace: true,
+      //   removeAttributeQuotes: true
+      // },
       chunks: ['js/vendor', 'js/manifest', 'js/app'],
       chunksSortMode: 'dependency'
     }),

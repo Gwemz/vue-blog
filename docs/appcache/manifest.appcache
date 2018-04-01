@@ -1,30 +1,30 @@
 CACHE MANIFEST
-#ver:2018-4-1 15:20:40
+#ver:2018-4-1 15:45:23
 #plugin:4.9.0
 
 CACHE:
-/vue-blog/img/markcook.c0632d9c.png
-/vue-blog/img/motto.c9a7b0a9.png
-/vue-blog/img/sphinx.42243d5e.png
-/vue-blog/img/vue-occupy.edaffcbe.png
-/vue-blog/js/0.539f7122.js
-/vue-blog/js/1.8fd9411b.js
-/vue-blog/js/2.ff5b4013.js
-/vue-blog/js/3.34dc494a.js
-/vue-blog/js/4.6f300f7d.js
-/vue-blog/js/5.2fd7ddef.js
-/vue-blog/js/6.7f2874fd.js
-/vue-blog/js/7.7309701e.js
-/vue-blog/js/8.dcce97f8.js
-/vue-blog/js/9.acbb0f32.js
-/vue-blog/js/10.a119cfd7.js
-/vue-blog/js/11.38632155.js
-/vue-blog/js/12.d2868696.js
-/vue-blog/js/13.4b156987.js
-/vue-blog/js/app.87232f7e.js
-/vue-blog/js/vendor.75e2fe1e.js
-/vue-blog/js/manifest.2b49069e.js
-/vue-blog/css/js/app.7b0a71b8.css
+/vue-blog/docs/img/markcook.c0632d9c.png
+/vue-blog/docs/img/motto.c9a7b0a9.png
+/vue-blog/docs/img/sphinx.42243d5e.png
+/vue-blog/docs/img/vue-occupy.edaffcbe.png
+/vue-blog/docs/js/0.539f7122.js
+/vue-blog/docs/js/1.8fd9411b.js
+/vue-blog/docs/js/2.ff5b4013.js
+/vue-blog/docs/js/3.34dc494a.js
+/vue-blog/docs/js/4.6f300f7d.js
+/vue-blog/docs/js/5.2fd7ddef.js
+/vue-blog/docs/js/6.7f2874fd.js
+/vue-blog/docs/js/7.7309701e.js
+/vue-blog/docs/js/8.dcce97f8.js
+/vue-blog/docs/js/9.acbb0f32.js
+/vue-blog/docs/js/10.a119cfd7.js
+/vue-blog/docs/js/11.38632155.js
+/vue-blog/docs/js/12.d2868696.js
+/vue-blog/docs/js/13.4b156987.js
+/vue-blog/docs/js/app.7a2c5c72.js
+/vue-blog/docs/js/vendor.75e2fe1e.js
+/vue-blog/docs/js/manifest.f9dfeb41.js
+/vue-blog/docs/css/js/app.7b0a71b8.css
 
 NETWORK:
 *
