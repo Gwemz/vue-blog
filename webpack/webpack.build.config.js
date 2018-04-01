@@ -19,7 +19,7 @@ module.exports = merge(basicConfig, {
   },
   output: {
     path: resolve('docs'),
-    publicPath: '/vonut/',
+    publicPath: '/vue-blog/',
     filename: '[name].[chunkhash:8].js',
     chunkFilename: 'js/[name].[chunkhash:8].js'
   },
